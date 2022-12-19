@@ -1,0 +1,2 @@
+2022-10-23 18:33:57,043 [main.py:46] INFO: Arguments: Namespace(dataset='ibm-2021.txt', min_conf=0.5, min_sup=0.02)
+2022-10-23 18:34:04,071 [main.py:83] INFO: fpgrowth is finishing

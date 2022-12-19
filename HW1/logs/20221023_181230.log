@@ -1,0 +1,2 @@
+2022-10-23 18:12:30,111 [main.py:46] INFO: Arguments: Namespace(min_sup=0.2, min_conf=0.2, dataset='ibm-2021.txt')
+2022-10-23 18:12:31,222 [main.py:70] INFO: apriori is finishing

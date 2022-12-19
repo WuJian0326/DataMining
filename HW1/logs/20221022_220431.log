@@ -1,0 +1,3 @@
+2022-10-22 22:04:31,704 [main.py:46] INFO: Arguments: Namespace(dataset='2022-DM-release-testdata-2.data', min_conf=0.1, min_sup=0.1)
+2022-10-22 22:05:32,262 [main.py:70] INFO: apriori is finishing
+2022-10-22 22:06:13,377 [main.py:83] INFO: fpgrowth is finishing

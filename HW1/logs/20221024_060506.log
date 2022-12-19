@@ -1,0 +1,2 @@
+2022-10-24 06:05:06,311 [main.py:46] INFO: Arguments: Namespace(dataset='2022-DM-release-testdata-2.data', min_conf=0.1, min_sup=0.1)
+2022-10-24 06:05:18,704 [main.py:84] INFO: fpgrowth is finishing

@@ -1,0 +1,55 @@
+antecedent,consequent,support,confidence,lift
+{'iron maiden'},{'m'},0.059,0.885,1.191
+{'ac/dc'},{'m'},0.061,0.871,1.172
+{'the prodigy'},{'m'},0.062,0.864,1.162
+{'the rolling stones'},{'m'},0.063,0.806,1.085
+{'massive attack'},{'m'},0.064,0.781,1.05
+{'nine inch nails'},{'m'},0.066,0.766,1.031
+{'u2'},{'m'},0.068,0.79,1.063
+{'bob dylan'},{'m'},0.069,0.767,1.032
+{'sigur rós'},{'m'},0.069,0.729,0.981
+{'air'},{'m'},0.07,0.728,0.979
+{'rammstein'},{'m'},0.07,0.822,1.106
+{'green day'},{'m'},0.071,0.716,0.963
+{'foo fighters'},{'m'},0.073,0.793,1.067
+{'david bowie'},{'m'},0.074,0.71,0.956
+{'arctic monkeys'},{'m'},0.075,0.679,0.914
+{'depeche mode'},{'m'},0.075,0.734,0.988
+{'daft punk'},{'m'},0.076,0.825,1.109
+{'queen'},{'m'},0.078,0.762,1.025
+{'led zeppelin'},{'m'},0.079,0.811,1.091
+{'United Kingdom'},{'m'},0.084,0.812,1.093
+{'Germany'},{'m'},0.084,0.746,1.004
+{'system of a down'},{'m'},0.091,0.8,1.076
+{'linkin park'},{'m'},0.098,0.74,0.996
+{'m'},{'nirvana'},0.743,0.101,1.026
+{'nirvana'},{'m'},0.098,0.762,1.026
+{'the killers'},{'m'},0.098,0.672,0.904
+{'pink floyd'},{'m'},0.105,0.808,1.087
+{'m'},{'pink floyd'},0.743,0.114,1.087
+{'metallica'},{'m'},0.111,0.853,1.147
+{'m'},{'metallica'},0.743,0.128,1.147
+{'muse'},{'m'},0.114,0.672,0.904
+{'m'},{'muse'},0.743,0.103,0.904
+{'red hot chili peppers'},{'m'},0.119,0.753,1.012
+{'m'},{'red hot chili peppers'},0.743,0.121,1.012
+{'f'},{'coldplay'},0.257,0.207,1.307
+{'coldplay'},{'f'},0.159,0.336,1.307
+{'radiohead'},{'coldplay'},0.18,0.303,1.91
+{'coldplay'},{'radiohead'},0.159,0.344,1.91
+{'coldplay'},{'m'},0.159,0.664,0.894
+{'m'},{'coldplay'},0.743,0.142,0.894
+{'the beatles'},{'f'},0.178,0.285,1.109
+{'f'},{'the beatles'},0.257,0.197,1.109
+{'the beatles'},{'United States'},0.178,0.295,1.521
+{'United States'},{'the beatles'},0.194,0.271,1.521
+{'the beatles'},{'radiohead'},0.178,0.327,1.815
+{'radiohead'},{'the beatles'},0.18,0.323,1.815
+{'the beatles'},{'m'},0.178,0.715,0.962
+{'m'},{'the beatles'},0.743,0.171,0.962
+{'radiohead'},{'m'},0.18,0.733,0.986
+{'m'},{'radiohead'},0.743,0.178,0.986
+{'United States'},{'f'},0.194,0.306,1.19
+{'f'},{'United States'},0.257,0.231,1.19
+{'United States'},{'m'},0.194,0.694,0.934
+{'m'},{'United States'},0.743,0.181,0.934

@@ -1,0 +1,1 @@
+2022-10-22 19:47:28,238 [main.py:46] INFO: Arguments: Namespace(dataset='lastfm.csv', min_conf=0.05, min_sup=0.001)
